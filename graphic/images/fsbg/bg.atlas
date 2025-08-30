@@ -1,0 +1,12 @@
+bg.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+Dust1
+bounds:2,2,248,246
+offsets:3,6,256,256
+bg
+bounds:2,472,1920,1080
+offsets:1,1,1922,1082
+web
+bounds:2,250,415,220

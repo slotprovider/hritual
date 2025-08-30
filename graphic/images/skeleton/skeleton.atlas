@@ -1,0 +1,14 @@
+skeleton.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+body
+bounds:0,0,1471,1911
+glow
+bounds:1472,88,459,266
+offsets:1,2,463,271
+rotate:90
+hands
+bounds:1472,548,1363,440
+rotate:90
